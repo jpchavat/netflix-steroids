@@ -1,0 +1,2 @@
+# netflix-steroids
+Browser extension
